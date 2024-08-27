@@ -1,4 +1,3 @@
-
 public class NextModeule {
 
 	public static void main(String[] args) {
