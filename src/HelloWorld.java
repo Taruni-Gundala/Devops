@@ -4,7 +4,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hellos");
 		System.out.println("Hola..... Welcome to DevOps...");
-		System.out.println("Hola....New to DevOps");
+		System.out.println("Hiiiiiiiiiiiiiiii");
 	}
 
 }
